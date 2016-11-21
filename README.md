@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## event-tracker-api
 
-Things you may want to cover:
+[Click here for event-tracker-api on Heroku](https://dry-brook-77200.herokuapp.com/)
 
-* Ruby version
+[Docs (user stories, wireframes)](https://drive.google.com/drive/folders/0B0PrQDFsuZ3UVXg2OTQ4emxhNjA?ths=true)
 
-* System dependencies
+### Description
 
-* Configuration
+Event-tracker-api is the back end for a lightweight application for personal use. Users can enter in information about an event they want to keep up with, and make changes as they see fit.
 
-* Database creation
+###### Features
+* CRUD features to create, update, and delete content
 
-* Database initialization
+###### Business Problem Solved
+Keeping up with current events.
 
-* How to run the test suite
+### Technologies Used
 
-* Services (job queues, cache servers, search engines, etc.)
+* Ruby on Rails used to serve the data
+* PostgreSQL for database
 
-* Deployment instructions
+###### APIs
+* None
 
-* ...
+### Future Implementations
+* Create a user and authentication.
+* Better user notifications.
+* Google maps for location.
